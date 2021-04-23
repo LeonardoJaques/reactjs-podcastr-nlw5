@@ -3,6 +3,7 @@
 ## Next-Js && Static Site Generation
 - 5h de Projeto
 - RESTful Api
+
 Axios | Date-fns | Rc-slider | Sass | Json-server | Typescript
 
 
